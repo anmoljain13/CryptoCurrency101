@@ -4,7 +4,7 @@ This is a learning project to learn more about cryptocurrency by building one. I
 
 ## Installing Dependencies 
 
-After cloning the project to the workstation entry the following command in cmd/terminal to install all the dependencies.
+After cloning the project to the workstation enter the following command in cmd/terminal to install all the dependencies.
 
 ```bash
 pip install -r requirements.txt
